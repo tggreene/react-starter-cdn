@@ -1,0 +1,11 @@
+.menu-icon {
+    display:        table-cell;
+    padding:        0.24em 0.35em 0.17em 0.35em;
+    position:       absolute;
+    top:            0.5rem;
+    left:           0.5rem;
+    text-align:     center;
+    background:     #DEDEDE;
+    vertical-align: middle;
+    font-size:      1rem;
+}
