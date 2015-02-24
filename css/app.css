@@ -1,3 +1,11 @@
+.container {
+    width: 750px;
+}
+
+.calc-form {
+    padding: 1rem;
+}
+
 .menu-icon {
     display:        table-cell;
     padding:        0.24em 0.35em 0.17em 0.35em;
